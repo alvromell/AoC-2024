@@ -1,9 +1,9 @@
 ﻿using AdventOfCodeFoundation.IO;
 
-namespace AdventOfCodeFoundation.Solvers._2015
+namespace AdventOfCodeFoundation.Solvers._2024
 {
     [Solves("2015/12/1")]
-    internal class Day1Solver2015 : ISolver
+    internal class Day1Solver2024 : ISolver
     {
         public async Task<string> SolvePartOne(Input input)
         {
